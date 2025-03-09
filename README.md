@@ -1,0 +1,1 @@
+This Procurement Management System is built using PHP, HTML, and CSS. It helps manage purchasing processes, including order requests, approvals, and tracking. The system ensures a streamlined and efficient procurement workflow for businesses.
